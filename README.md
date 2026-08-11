@@ -18,7 +18,7 @@ conda create -n medibot python=3.10 -y
 conda activate medibot
 ```
 
-### STEP 1- Install the requirements
+### STEP 2- Install the requirements
 
 ```bash
 pip install -r requirements.txt
